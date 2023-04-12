@@ -3,7 +3,7 @@ programa
 	
 	funcao inicio()
 	{
-		cadeia nomes[4] = {"Amanda","Renato","Agatha", "Wagner"}
+		cadeia nomes[4] = {"Amanda","Renato","Agatha", "Flavio"}
           real notas[4][4] = {{10.0,9.0,10.0,8.0},
                               {8.0,9.0,9.0,10.0},
                               {7.0,6.0,9.0,8.0},
@@ -51,7 +51,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 354; 
+ * @POSICAO-CURSOR = 433; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = {nomes, 6, 9, 5}-{notas, 7, 15, 5}-{medias, 11, 15, 6}-{l, 13, 24, 1}-{soma, 15, 16, 4}-{c, 16, 24, 1};
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
