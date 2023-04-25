@@ -1,2 +1,2 @@
 # aula-generation-git-github
-Aulas desenvolvidas no curso da generation
+Aula desenvolvida no curso da generation com Portugol.
